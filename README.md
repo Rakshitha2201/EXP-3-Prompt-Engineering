@@ -66,7 +66,10 @@ Within a specific use case (e.g., summarizing text, answering technical question
 
   5.4 Formulate a Conclusion: Draft a final conclusion summarizing your findings. Rank the platforms for each use case based on your defined criteria.
 
-## Experiment:
+## Prompt:
+Compare ChatGPT, Claude, Bard, Cohere Command, and Meta AI on the same tasks (e.g., summarization, technical Q&A). For each platform, follow Prompt and compare accuracy, clarity, depth, and user experience.
+
+## Output
 ### Case 1: Summarizing Text
 **ChatGPT (GPT-4o)**
 
@@ -201,7 +204,7 @@ Performance & Response Quality: As an open-source model, its data analysis capab
 
 User Experience: The user experience is determined by the developer who implements the model. This allows for the creation of highly specialized data analysis tools.
 
-## Output
+## Result
 Based on a simulated evaluation, here is a summary of the key findings for each AI platform:
 
 ChatGPT (GPT-4o): The most versatile, excelling in creative writing, technical tasks, and data analysis due to its integrated tools.
@@ -216,9 +219,8 @@ Cohere Command & Meta Llama: Powerful, developer-focused tools best suited for b
 
 
 
-## Result
-
 <img width="766" height="264" alt="Screenshot 2025-09-09 203314" src="https://github.com/user-attachments/assets/9e7b70d9-ac9e-4e16-86a4-2201db9322fe" />
+
 
 
 Based on a simulated evaluation, ChatGPT is the most versatile tool for creative and technical tasks. Claude excels at long-form summaries and explanations. Gemini shines with its Google integration and real-time data access. Cohere and Meta Llama are powerful, developer-focused tools for building specialized applications.
