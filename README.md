@@ -66,7 +66,7 @@ Within a specific use case (e.g., summarizing text, answering technical question
 
   5.4 Formulate a Conclusion: Draft a final conclusion summarizing your findings. Rank the platforms for each use case based on your defined criteria.
 
-## Prompt:
+## Experiment:
 ### Case 1: Summarizing Text
 **ChatGPT (GPT-4o)**
 
