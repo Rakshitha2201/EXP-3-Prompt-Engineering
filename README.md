@@ -211,6 +211,7 @@ Claude (Claude 3.5 Sonnet): A top performer for summarizing long-form content an
 Gemini (1.5 Pro): Strong in its seamless integration with the Google ecosystem and ability to access real-time web data.
 
 Cohere Command & Meta Llama: Powerful, developer-focused tools best suited for building customized enterprise applications.
+
 <img width="1200" height="800" alt="p_1" src="https://github.com/user-attachments/assets/3bbea5d2-5fa8-4d64-80b2-653509d92326" />
 
 
@@ -218,6 +219,7 @@ Cohere Command & Meta Llama: Powerful, developer-focused tools best suited for b
 ## Result
 
 <img width="766" height="264" alt="Screenshot 2025-09-09 203314" src="https://github.com/user-attachments/assets/9e7b70d9-ac9e-4e16-86a4-2201db9322fe" />
+
 
 Based on a simulated evaluation, ChatGPT is the most versatile tool for creative and technical tasks. Claude excels at long-form summaries and explanations. Gemini shines with its Google integration and real-time data access. Cohere and Meta Llama are powerful, developer-focused tools for building specialized applications.
 
