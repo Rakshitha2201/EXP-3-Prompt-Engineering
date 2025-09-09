@@ -49,17 +49,12 @@ Within a specific use case (e.g., summarizing text, answering technical question
 
   Coherence & Flow: Does the text read naturally and logically?
 
-  Creativity/Depth: Does the response show a deep understanding or provide unique, well-thought-out insights (especially for creative tasks)?
-
-  Safety/Bias: Does the model refuse to answer inappropriate questions or exhibit any noticeable biases?
-
 **Step 4: Execute the Evaluation Test**
 
  4.1 Systematic Testing: Go through each platform and run the identical set of prompts for each use case.
 
  4.2 Record Observations: Immediately after each test, record the AI's response and your qualitative and quantitative observations in your tracking document. Take screenshots of the interfaces if necessary.
 
- 4.3 Repeat and A/B Test: Consider running the same test at different times of the day to account for potential server load or performance fluctuations.
 
 **Step 5: Analyze and Synthesize Results**
 
@@ -221,5 +216,8 @@ Cohere Command & Meta Llama: Powerful, developer-focused tools best suited for b
 
 
 ## Result
+
+<img width="766" height="264" alt="Screenshot 2025-09-09 203314" src="https://github.com/user-attachments/assets/9e7b70d9-ac9e-4e16-86a4-2201db9322fe" />
+
 Based on a simulated evaluation, ChatGPT is the most versatile tool for creative and technical tasks. Claude excels at long-form summaries and explanations. Gemini shines with its Google integration and real-time data access. Cohere and Meta Llama are powerful, developer-focused tools for building specialized applications.
 
